@@ -1,0 +1,4 @@
+<layout id="WatchFace">
+    <drawable class="Background" />
+    <drawable id="Time" class="TimeWidget"/>
+</layout>
