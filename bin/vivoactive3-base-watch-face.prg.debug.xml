@@ -32,126 +32,161 @@
         <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceBackground.mc" id="8" lineNum="15" pc="268436328" symbol="draw"/>
         <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceBackground.mc" id="8" lineNum="17" pc="268436332" symbol="draw"/>
         <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceBackground.mc" id="8" lineNum="18" pc="268436385" symbol="draw"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="10" lineNum="7" pc="268436398" symbol="initialize"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="10" lineNum="8" pc="268436402" symbol="initialize"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="11" lineNum="12" pc="268436421" symbol="onLayout"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="11" lineNum="13" pc="268436425" symbol="onLayout"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="12" lineNum="19" pc="268436463" symbol="onShow"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="13" lineNum="23" pc="268436468" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="13" lineNum="25" pc="268436472" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="14" lineNum="31" pc="268436493" symbol="onHide"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="15" lineNum="35" pc="268436498" symbol="onExitSleep"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="16" lineNum="39" pc="268436503" symbol="onEnterSleep"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="18" lineNum="9" pc="268436508" symbol="initialize"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="18" lineNum="10" pc="268436512" symbol="initialize"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="19" lineNum="13" pc="268436533" symbol="draw"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="19" lineNum="14" pc="268436537" symbol="draw"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="19" lineNum="15" pc="268436544" symbol="draw"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="19" lineNum="16" pc="268436561" symbol="draw"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="19" lineNum="17" pc="268436571" symbol="draw"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="19" lineNum="18" pc="268436596" symbol="draw"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="19" lineNum="19" pc="268436607" symbol="draw"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="19" lineNum="22" pc="268436623" symbol="draw"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="19" lineNum="24" pc="268436718" symbol="draw"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="19" lineNum="25" pc="268436771" symbol="draw"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="19" lineNum="27" pc="268436819" symbol="draw"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceApp.mc" id="21" lineNum="6" pc="268436832" symbol="initialize"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceApp.mc" id="21" lineNum="7" pc="268436836" symbol="initialize"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceApp.mc" id="22" lineNum="11" pc="268436855" symbol="onStart"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceApp.mc" id="23" lineNum="15" pc="268436860" symbol="onStop"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceApp.mc" id="24" lineNum="19" pc="268436865" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceApp.mc" id="24" lineNum="20" pc="268436869" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceApp.mc" id="25" lineNum="24" pc="268436907" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceApp.mc" id="25" lineNum="25" pc="268436911" symbol="onSettingsChanged"/>
-        <entry filename="Rez" id="31" lineNum="15" pc="268436928" symbol="WatchFace"/>
-        <entry filename="Rez" id="31" lineNum="18" pc="268436940" symbol="WatchFace"/>
-        <entry filename="Rez" id="31" lineNum="19" pc="268436964" symbol="WatchFace"/>
-        <entry filename="Rez" id="31" lineNum="20" pc="268437007" symbol="WatchFace"/>
-        <entry filename="Rez" id="31" lineNum="22" pc="268437050" symbol="WatchFace"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceDelegate.mc" id="10" lineNum="8" pc="268436398" symbol="initialize"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceDelegate.mc" id="10" lineNum="9" pc="268436402" symbol="initialize"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceDelegate.mc" id="11" lineNum="12" pc="268436421" symbol="onPowerBudgetExceeded"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceDelegate.mc" id="11" lineNum="13" pc="268436425" symbol="onPowerBudgetExceeded"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceDelegate.mc" id="11" lineNum="14" pc="268436469" symbol="onPowerBudgetExceeded"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceDelegate.mc" id="11" lineNum="26" pc="268436609" symbol="onPowerBudgetExceeded"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceDelegate.mc" id="11" lineNum="27" pc="268436633" symbol="onPowerBudgetExceeded"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceDelegate.mc" id="11" lineNum="28" pc="268436663" symbol="onPowerBudgetExceeded"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="13" lineNum="9" pc="268436694" symbol="initialize"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="13" lineNum="10" pc="268436698" symbol="initialize"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="14" lineNum="14" pc="268436717" symbol="onLayout"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="14" lineNum="15" pc="268436721" symbol="onLayout"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="14" lineNum="17" pc="268436758" symbol="onLayout"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="15" lineNum="23" pc="268436789" symbol="onShow"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="16" lineNum="27" pc="268436794" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="16" lineNum="29" pc="268436798" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="17" lineNum="32" pc="268436819" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="17" lineNum="33" pc="268436823" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="17" lineNum="34" pc="268436861" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="18" lineNum="41" pc="268436887" symbol="onHide"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="19" lineNum="45" pc="268436892" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceView.mc" id="20" lineNum="49" pc="268436897" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="22" lineNum="12" pc="268436902" symbol="initialize"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="22" lineNum="13" pc="268436906" symbol="initialize"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="22" lineNum="14" pc="268436926" symbol="initialize"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="22" lineNum="15" pc="268436949" symbol="initialize"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="23" lineNum="18" pc="268436962" symbol="draw"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="23" lineNum="19" pc="268436966" symbol="draw"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="24" lineNum="22" pc="268436983" symbol="updateColors"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="24" lineNum="23" pc="268436987" symbol="updateColors"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="24" lineNum="24" pc="268437017" symbol="updateColors"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="25" lineNum="27" pc="268437048" symbol="getTime"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="25" lineNum="28" pc="268437052" symbol="getTime"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="25" lineNum="29" pc="268437069" symbol="getTime"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="25" lineNum="30" pc="268437079" symbol="getTime"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="25" lineNum="31" pc="268437104" symbol="getTime"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="25" lineNum="32" pc="268437115" symbol="getTime"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="25" lineNum="35" pc="268437131" symbol="getTime"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="26" lineNum="38" pc="268437226" symbol="drawWidget"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="26" lineNum="39" pc="268437230" symbol="drawWidget"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="26" lineNum="40" pc="268437235" symbol="drawWidget"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="26" lineNum="41" pc="268437267" symbol="drawWidget"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="26" lineNum="42" pc="268437295" symbol="drawWidget"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="26" lineNum="43" pc="268437357" symbol="drawWidget"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="26" lineNum="45" pc="268437372" symbol="drawWidget"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="26" lineNum="46" pc="268437404" symbol="drawWidget"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="26" lineNum="47" pc="268437466" symbol="drawWidget"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\TimeWidget.mc" id="26" lineNum="48" pc="268437528" symbol="drawWidget"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceApp.mc" id="28" lineNum="6" pc="268437541" symbol="initialize"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceApp.mc" id="28" lineNum="7" pc="268437545" symbol="initialize"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceApp.mc" id="29" lineNum="11" pc="268437564" symbol="onStart"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceApp.mc" id="30" lineNum="15" pc="268437569" symbol="onStop"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceApp.mc" id="31" lineNum="19" pc="268437574" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceApp.mc" id="31" lineNum="20" pc="268437578" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceApp.mc" id="32" lineNum="27" pc="268437646" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\artur\\eclipse-workspace\\vivoactive3-base-watch-face\\source\\BaseWatchFaceApp.mc" id="32" lineNum="28" pc="268437650" symbol="onSettingsChanged"/>
+        <entry filename="Rez" id="38" lineNum="15" pc="268437667" symbol="WatchFace"/>
+        <entry filename="Rez" id="38" lineNum="17" pc="268437679" symbol="WatchFace"/>
+        <entry filename="Rez" id="38" lineNum="18" pc="268437703" symbol="WatchFace"/>
+        <entry filename="Rez" id="38" lineNum="19" pc="268437746" symbol="WatchFace"/>
+        <entry filename="Rez" id="38" lineNum="21" pc="268437789" symbol="WatchFace"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry field="true" id="48" symbol="&lt;globals/DateWidget/&lt;&gt;currentDayOfWeek&gt;"/>
+        <entry field="true" id="51" symbol="&lt;globals/TimeWidget/&lt;&gt;backgroundColor&gt;"/>
+        <entry field="true" id="55" symbol="&lt;globals/DateWidget/&lt;&gt;currentDayOfWeek&gt;"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
         <entry id="4" module="true" symbol="globals/Rez/Menus"/>
-        <entry id="12" object="true" symbol="BaseWatchFaceApp"/>
-        <entry field="true" id="50" symbol="&lt;globals/DateWidget/&lt;&gt;currentMonth&gt;"/>
+        <entry id="13" object="true" symbol="BaseWatchFaceApp"/>
+        <entry field="true" id="57" symbol="&lt;globals/DateWidget/&lt;&gt;currentMonth&gt;"/>
         <entry id="8389683" method="true" symbol="onSettingsChanged"/>
-        <entry field="true" id="23" symbol="ColorYellow"/>
-        <entry field="true" id="25" symbol="ColorRed"/>
-        <entry field="true" id="17" symbol="Oct"/>
+        <entry field="true" id="24" symbol="ColorYellow"/>
+        <entry id="8390098" method="true" symbol="onPowerBudgetExceeded"/>
+        <entry field="true" id="26" symbol="ColorRed"/>
+        <entry field="true" id="18" symbol="Oct"/>
         <entry id="8388924" module="true" symbol="Gregorian"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry field="true" id="51" symbol="&lt;globals/DateWidget/&lt;&gt;monthString&gt;"/>
-        <entry field="true" id="42" symbol="Nov"/>
-        <entry field="true" id="26" symbol="Aug"/>
-        <entry field="true" id="16" symbol="ColorBlue"/>
-        <entry field="true" id="18" symbol="Apr"/>
-        <entry field="true" id="37" symbol="Tue"/>
-        <entry field="true" id="24" symbol="AppName"/>
+        <entry field="true" id="58" symbol="&lt;globals/DateWidget/&lt;&gt;monthString&gt;"/>
+        <entry field="true" id="43" symbol="Nov"/>
+        <entry field="true" id="27" symbol="Aug"/>
+        <entry field="true" id="50" symbol="&lt;globals/TimeWidget/&lt;&gt;mainColor&gt;"/>
+        <entry field="true" id="17" symbol="ColorBlue"/>
+        <entry field="true" id="19" symbol="Apr"/>
+        <entry field="true" id="38" symbol="Tue"/>
+        <entry field="true" id="25" symbol="AppName"/>
         <entry id="8" module="true" symbol="globals/Rez/Strings"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-        <entry id="52" method="true" symbol="updateDate"/>
+        <entry id="59" method="true" symbol="updateDate"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
-        <entry field="true" id="39" symbol="ColorOrange"/>
-        <entry field="true" id="30" symbol="Thu"/>
+        <entry field="true" id="40" symbol="ColorOrange"/>
+        <entry id="8390097" method="true" symbol="onPartialUpdate"/>
+        <entry field="true" id="31" symbol="Thu"/>
         <entry id="2" module="true" symbol="globals/Rez"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
-        <entry field="true" id="41" symbol="Mon"/>
+        <entry field="true" id="42" symbol="Mon"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
-        <entry field="true" id="40" symbol="Sun"/>
-        <entry id="14" module="true" symbol="Menus"/>
-        <entry field="true" id="36" symbol="ColorDarkGray"/>
+        <entry field="true" id="41" symbol="Sun"/>
+        <entry id="15" module="true" symbol="Menus"/>
+        <entry field="true" id="37" symbol="ColorDarkGray"/>
         <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
-        <entry field="true" id="20" symbol="May"/>
-        <entry field="true" id="46" symbol="Mar"/>
+        <entry field="true" id="21" symbol="May"/>
+        <entry field="true" id="47" symbol="Mar"/>
         <entry id="8389376" method="true" symbol="onEnterSleep"/>
         <entry field="true" id="8389063" symbol="identifier"/>
-        <entry field="true" id="45" symbol="Fri"/>
-        <entry field="true" id="47" symbol="Sep"/>
-        <entry field="true" id="49" symbol="&lt;globals/DateWidget/&lt;&gt;dayOfWeekString&gt;"/>
-        <entry field="true" id="28" symbol="ColorWhite"/>
-        <entry field="true" id="22" symbol="Sat"/>
+        <entry field="true" id="46" symbol="Fri"/>
+        <entry field="true" id="48" symbol="Sep"/>
+        <entry field="true" id="56" symbol="&lt;globals/DateWidget/&lt;&gt;dayOfWeekString&gt;"/>
+        <entry field="true" id="29" symbol="ColorWhite"/>
+        <entry field="true" id="23" symbol="Sat"/>
         <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
-        <entry field="true" id="21" symbol="SecondColorTitle"/>
-        <entry field="true" id="38" symbol="ColorBlack"/>
-        <entry field="true" id="32" symbol="Feb"/>
+        <entry field="true" id="22" symbol="SecondColorTitle"/>
+        <entry field="true" id="39" symbol="ColorBlack"/>
+        <entry field="true" id="33" symbol="Feb"/>
         <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
         <entry id="9" object="true" symbol="DateWidget"/>
-        <entry field="true" id="27" symbol="ColorViolet"/>
+        <entry field="true" id="28" symbol="ColorViolet"/>
         <entry id="8389377" method="true" symbol="onExitSleep"/>
         <entry id="8388644" module="true" symbol="System"/>
+        <entry id="53" method="true" symbol="getTime"/>
         <entry id="8388645" module="true" symbol="Time"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
         <entry id="8388640" module="true" symbol="Lang"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
         <entry id="8389068" method="true" symbol="draw"/>
-        <entry field="true" id="15" symbol="LauncherIcon"/>
+        <entry field="true" id="16" symbol="LauncherIcon"/>
         <entry id="8388610" symbol="statics"/>
         <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="10" object="true" symbol="BaseWatchFaceDelegate"/>
         <entry id="8389350" module="true" symbol="globals"/>
-        <entry field="true" id="19" symbol="BackgroundColorTitle"/>
+        <entry field="true" id="20" symbol="BackgroundColorTitle"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
         <entry id="8390146" module="true" object="true" symbol="Background"/>
         <entry id="8388702" method="true" symbol="initialize"/>
         <entry id="8389279" method="true" symbol="onStart"/>
-        <entry field="true" id="33" symbol="Jun"/>
-        <entry field="true" id="31" symbol="Jul"/>
-        <entry field="true" id="29" symbol="ColorLightGray"/>
-        <entry field="true" id="34" symbol="MainColorTitle"/>
+        <entry field="true" id="49" symbol="&lt;globals/TimeWidget/&lt;&gt;app&gt;"/>
+        <entry field="true" id="34" symbol="Jun"/>
+        <entry field="true" id="32" symbol="Jul"/>
+        <entry field="true" id="30" symbol="ColorLightGray"/>
+        <entry field="true" id="35" symbol="MainColorTitle"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
-        <entry field="true" id="35" symbol="Dec"/>
-        <entry field="true" id="44" symbol="Wed"/>
-        <entry id="10" object="true" symbol="BaseWatchFaceView"/>
-        <entry id="13" module="true" symbol="Layouts"/>
-        <entry field="true" id="43" symbol="Jan"/>
+        <entry field="true" id="36" symbol="Dec"/>
+        <entry field="true" id="45" symbol="Wed"/>
+        <entry id="11" object="true" symbol="BaseWatchFaceView"/>
+        <entry id="54" method="true" symbol="drawWidget"/>
+        <entry id="14" module="true" symbol="Layouts"/>
+        <entry field="true" id="44" symbol="Jan"/>
         <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="60" symbol="&lt;globals/BaseWatchFaceView/&lt;&gt;timeWidget&gt;"/>
         <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="52" method="true" symbol="updateColors"/>
         <entry id="8388635" module="true" symbol="Application"/>
-        <entry id="11" object="true" symbol="TimeWidget"/>
+        <entry id="12" object="true" symbol="TimeWidget"/>
     </symbolTable>
     <localVars>
         <entry arg="true" endPc="268435481" name="params" stackId="1" startPc="268435456"/>
@@ -166,36 +201,42 @@
         <entry endPc="268436281" name="rezStrings" stackId="3" startPc="268435616"/>
         <entry endPc="268436327" name="dictionary" stackId="1" startPc="268436286"/>
         <entry arg="true" endPc="268436398" name="dc" stackId="1" startPc="268436328"/>
-        <entry arg="true" endPc="268436463" name="dc" stackId="1" startPc="268436421"/>
-        <entry arg="true" endPc="268436493" name="dc" stackId="1" startPc="268436468"/>
-        <entry arg="true" endPc="268436533" name="params" stackId="1" startPc="268436508"/>
-        <entry endPc="268436831" name="hours" stackId="4" startPc="268436537"/>
-        <entry endPc="268436831" name="timeString" stackId="5" startPc="268436537"/>
-        <entry endPc="268436831" name="clockTime" stackId="3" startPc="268436537"/>
-        <entry endPc="268436831" name="timeFormat" stackId="2" startPc="268436537"/>
-        <entry arg="true" endPc="268436832" name="dc" stackId="1" startPc="268436533"/>
-        <entry arg="true" endPc="268436860" name="state" stackId="1" startPc="268436855"/>
-        <entry arg="true" endPc="268436865" name="state" stackId="1" startPc="268436860"/>
-        <entry endPc="268437087" name="rez_cmp_local_custom_drawable_Date" stackId="4" startPc="268436940"/>
-        <entry endPc="268437087" name="rez_cmp_local_custom_drawable_13551644702100541725" stackId="2" startPc="268436940"/>
-        <entry endPc="268437087" name="rez_cmp_local_custom_drawable_Time" stackId="3" startPc="268436940"/>
-        <entry arg="true" endPc="268437088" name="dc" stackId="1" startPc="268436928"/>
+        <entry endPc="268436693" name="today" stackId="2" startPc="268436425"/>
+        <entry endPc="268436693" name="dateString" stackId="3" startPc="268436425"/>
+        <entry arg="true" endPc="268436694" name="powerInfo" stackId="1" startPc="268436421"/>
+        <entry arg="true" endPc="268436789" name="dc" stackId="1" startPc="268436717"/>
+        <entry arg="true" endPc="268436819" name="dc" stackId="1" startPc="268436794"/>
+        <entry arg="true" endPc="268436887" name="dc" stackId="1" startPc="268436819"/>
+        <entry arg="true" endPc="268436962" name="params" stackId="1" startPc="268436902"/>
+        <entry arg="true" endPc="268436983" name="dc" stackId="1" startPc="268436962"/>
+        <entry endPc="268437225" name="hours" stackId="3" startPc="268437052"/>
+        <entry endPc="268437225" name="clockTime" stackId="2" startPc="268437052"/>
+        <entry arg="true" endPc="268437226" name="timeFormat" stackId="1" startPc="268437048"/>
+        <entry arg="true" endPc="268437541" name="dc" stackId="1" startPc="268437226"/>
+        <entry arg="true" endPc="268437541" name="isPartialUpdate" stackId="2" startPc="268437226"/>
+        <entry arg="true" endPc="268437569" name="state" stackId="1" startPc="268437564"/>
+        <entry arg="true" endPc="268437574" name="state" stackId="1" startPc="268437569"/>
+        <entry endPc="268437826" name="rez_cmp_local_custom_drawable_11764784323744526492" stackId="2" startPc="268437679"/>
+        <entry endPc="268437826" name="rez_cmp_local_custom_drawable_TimeWidget" stackId="3" startPc="268437679"/>
+        <entry endPc="268437826" name="rez_cmp_local_custom_drawable_DateWidget" stackId="4" startPc="268437679"/>
+        <entry arg="true" endPc="268437827" name="dc" stackId="1" startPc="268437667"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>
         <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-        <dataEntry offset="174" parentId="globals" symbolId="Background" type="class"/>
-        <dataEntry offset="229" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry offset="308" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry offset="347" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry offset="378" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry offset="409" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry offset="448" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry offset="479" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry offset="766" parentId="globals" symbolId="BaseWatchFaceApp" type="class"/>
-        <dataEntry offset="845" parentId="globals" symbolId="TimeWidget" type="class"/>
-        <dataEntry offset="900" parentId="globals" symbolId="DateWidget" type="class"/>
-        <dataEntry offset="995" parentId="globals" symbolId="BaseWatchFaceView" type="class"/>
+        <dataEntry offset="182" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="237" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="316" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="355" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="386" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="417" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="456" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="487" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="774" parentId="globals" symbolId="BaseWatchFaceApp" type="class"/>
+        <dataEntry offset="853" parentId="globals" symbolId="BaseWatchFaceDelegate" type="class"/>
+        <dataEntry offset="908" parentId="globals" symbolId="TimeWidget" type="class"/>
+        <dataEntry offset="1011" parentId="globals" symbolId="DateWidget" type="class"/>
+        <dataEntry offset="1106" parentId="globals" symbolId="BaseWatchFaceView" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" name="initialize" parent="DateWidget">
@@ -216,6 +257,13 @@
             <param id="dc"/>
             <documentation/>
         </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="BaseWatchFaceDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPowerBudgetExceeded" parent="BaseWatchFaceDelegate">
+            <param id="powerInfo"/>
+            <documentation/>
+        </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="BaseWatchFaceView">
             <documentation/>
         </functionEntry>
@@ -227,6 +275,10 @@
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="onUpdate" parent="BaseWatchFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPartialUpdate" parent="BaseWatchFaceView">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
@@ -245,6 +297,18 @@
         </functionEntry>
         <functionEntry accessMode="public" name="draw" parent="TimeWidget">
             <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateColors" parent="TimeWidget">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getTime" parent="TimeWidget">
+            <param id="timeFormat"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawWidget" parent="TimeWidget">
+            <param id="dc"/>
+            <param id="isPartialUpdate"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="BaseWatchFaceApp">

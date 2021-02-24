@@ -4,6 +4,8 @@ using Toybox.Application;
 
 class BaseWatchFaceView extends WatchUi.WatchFace {
 
+	private var timeWidget;
+
     function initialize() {
         WatchFace.initialize();
     }
@@ -11,6 +13,8 @@ class BaseWatchFaceView extends WatchUi.WatchFace {
     // Load your resources here
     function onLayout(dc) {
         setLayout(Rez.Layouts.WatchFace(dc));
+        
+        timeWidget = View.findDrawableById("TimeWidget");
     }
 
     // Called when this View is brought to the foreground. Restore
@@ -23,6 +27,12 @@ class BaseWatchFaceView extends WatchUi.WatchFace {
     function onUpdate(dc) {    
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
+    }
+    
+    function onPartialUpdate(dc){
+    	if(System.getClockTime().sec % 5 == 0){    	
+			timeWidget.drawWidget(dc, true);
+		}
     }
 
     // Called when this View is removed from the screen. Save the

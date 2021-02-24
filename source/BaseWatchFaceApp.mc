@@ -17,12 +17,14 @@ class BaseWatchFaceApp extends Application.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() {
-        return [ new BaseWatchFaceView() ];
+        return [ 
+        	new BaseWatchFaceView(),
+        	new BaseWatchFaceDelegate()
+	 	];
     }
 
     // New app settings have been received so trigger a UI update
     function onSettingsChanged() {
         WatchUi.requestUpdate();
     }
-
 }
